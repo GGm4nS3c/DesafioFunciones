@@ -1,0 +1,13 @@
+.container{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5vh;
+}
+
+.box{
+    width: 200px;
+    height: 200px;
+    border: 2px solid brown;
+}
